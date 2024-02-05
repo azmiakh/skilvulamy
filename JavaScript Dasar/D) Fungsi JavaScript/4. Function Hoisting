@@ -1,0 +1,14 @@
+Perhatikan kode di bawah ini:
+
+console.log(greetings()); // Output: ...
+
+const greetings = function() {
+  return 'Halo, selamat pagi!';
+};
+Berdasarkan kode di atas, apa outputnya?
+
+A function (){return 'Halo, selamat pagi'}
+B Halo, selamat pagi!
+C Cannot access 'greetings' before initialization
+
+Jawaban: C Cannot access 'greetings' before initialization

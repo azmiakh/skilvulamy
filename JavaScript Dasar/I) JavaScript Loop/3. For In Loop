@@ -1,0 +1,7 @@
+Apakah perbedaan for loop dengan for...in loop?
+
+A for loop dan for...in loop sama saja dan bisa digunakan untuk mengulang suatu operasi hingga batas waktu yang ditentukan
+B for loop dan for...in loop sama saja dan bisa digunakan untuk mengulang properti dari suatu objek
+C for loop digunakan untuk mengulang suatu operasi hingga batas waktu yang ditentukan sedangkan for...in loop digunakan untuk mengulang properti dari suatu objek
+
+Jawaban: C for loop digunakan untuk mengulang suatu operasi hingga batas waktu yang ditentukan sedangkan for...in loop digunakan untuk mengulang properti dari suatu objek

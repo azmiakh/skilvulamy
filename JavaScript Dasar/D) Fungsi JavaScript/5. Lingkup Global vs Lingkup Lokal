@@ -1,0 +1,18 @@
+Perhatikan kode di bawah ini:
+
+let carName = 'Kijang';
+
+function displayCarName() {
+  let carName = 'Honda';
+
+  return 'Mobil ini bermerk ' + carName;
+}
+
+console.log(displayCarName()); //output: ...
+Berdasarkan kode di atas, apa outputnya?
+
+A Mobil ini bermerk Kijang
+B Mobil ini bermerk Honda
+C Mobil ini bermerk undefined
+
+Jawaban: B Mobil ini bermerk Honda
